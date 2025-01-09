@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/5CS019-Object-Oriented-Design-and-Programming.iml" filepath="$PROJECT_DIR$/.idea/5CS019-Object-Oriented-Design-and-Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/HosipitalManagementSystem/HospitalManagementSystem.iml" filepath="$PROJECT_DIR$/HosipitalManagementSystem/HospitalManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/Week 1.iml" filepath="$PROJECT_DIR$/Week 1/Week 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 2/Week 2.iml" filepath="$PROJECT_DIR$/Week 2/Week 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 3/Week 3.iml" filepath="$PROJECT_DIR$/Week 3/Week 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 4/Week 4.iml" filepath="$PROJECT_DIR$/Week 4/Week 4.iml" />
     </modules>
   </component>
 </project>
